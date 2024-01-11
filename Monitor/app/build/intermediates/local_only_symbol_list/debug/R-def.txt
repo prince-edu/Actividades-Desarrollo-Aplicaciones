@@ -1,0 +1,20 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color white
+drawable ic_chevron_gray
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id arrow_image
+id eq_recycler
+id magnitude_text
+id place_text
+layout activity_main
+layout eq_list_item
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Base.Theme.Monitor
+style Theme.Monitor
+xml backup_rules
+xml data_extraction_rules

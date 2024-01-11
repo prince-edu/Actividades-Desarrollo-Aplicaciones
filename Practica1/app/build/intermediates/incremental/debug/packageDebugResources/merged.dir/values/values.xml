@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name" translatable="false">Practice1</string>
+    <string name="to_greet">To Greet</string>
+    <string name="welcome_message">Hi %s ! welcome to DDA course</string>
+    <string name="write_here">write here</string>
+    <string name="you_should_write_your_name">You should write your name</string>
+    <string name="your_name">Your Name:</string>
+    <style name="Base.Theme.Practica1" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="Theme.Practica1" parent="Base.Theme.Practica1"/>
+</resources>
