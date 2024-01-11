@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Practica 3</string>
+    <string name="add_height">Add your height\n</string>
+    <string name="write_height_cm">Write your height (cm)</string>
+    <string name="add_weight">Add your weight\n</string>
+    <string name="write_weight_kg">Add your wheight (kg)</string>
+    <string name="calc_imc">Calcular imc</string>
+    <string name="result_message">Resultado: %f</string>
+    <string name="error_message">Error:</string>
+    <string name="body_mass_index">BMI</string>
+    <string name="less_than_18_5"><![CDATA[< 18.5]]></string>
+    <string name="under_weight">Under weight</string>
+    <string name="between18_5_and_24_9">18.5 - 24.9</string>
+    <string name="normal_weight">Normal weight</string>
+    <string name="between25_and_29_9">25.0 - 29.9</string>
+    <string name="overweight">Overweight</string>
+    <string name="between30_and_34_9">30.0 - 34.9</string>
+    <string name="class1_obesity">Class 1 obesity</string>
+    <string name="between35_and_39_9">35.5 - 39.9</string>
+    <string name="class2_obesity">Class 2 obesity</string>
+    <string name="more_than_40"><![CDATA[> 40]]></string>
+    <string name="class3_obesity">Class 3 obesity\n</string>
+</resources>
